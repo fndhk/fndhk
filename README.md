@@ -1,12 +1,18 @@
 <table>
   <tr>
-    <td align="center">
+    <td align="center" rowspan="2" width="220">
       <img src="https://github.com/user-attachments/assets/46154288-cbb7-4af5-bcf9-660ab113fc65" width="200" alt="프로필 사진">
     </td>
-    <td valign="top" width="50%">
-      <h3>곽영민 <br>(Kwak Young Min)</h3>
+    <td valign="top" height="70%">
       <br>
-      <b>이메일</b>: kwakyoungmin14@naver.com
+      <h3>곽영민 <br>(Kwak Young Min)</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="bottom" height="30%">
+      <a href="mailto:kwakyoungmin14@naver.com">
+        <img src="https://img.shields.io/badge/Email-kwakyoungmin14@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email"/>
+      </a>
     </td>
   </tr>
 </table>
