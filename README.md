@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center" rowspan="2" width="220">
-      <img src="https://github.com/user-attachments/assets/46154288-cbb7-4af5-bcf9-660ab113fc65" width="200" alt="프로필 사진">
+      <img src="https://github.com/user-attachments/assets/67973b7c-f2b2-4497-bc8a-cdc9285908a3" width="200" alt="프로필 사진">
     </td>
     <td valign="top" height="70%">
       <br>
