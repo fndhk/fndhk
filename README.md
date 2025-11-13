@@ -6,6 +6,7 @@
     <td valign="top" height="70%">
       <br>
       <h3>곽영민 <br>(Kwak Young Min)</h3>
+      <h5>다양한 경험과 호기심으로 성장하고자 합니다.</h5>
     </td>
   </tr>
   <tr>
