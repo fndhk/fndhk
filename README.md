@@ -36,10 +36,6 @@
 | **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
 <br>
 
-## 🌌 GitHub Stats
-
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fndhk&show_icons=true&theme=midnight-purple&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fndhk&layout=compact&theme=midnight-purple&hide_border=true"/>
