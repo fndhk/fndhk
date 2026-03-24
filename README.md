@@ -88,6 +88,15 @@
 - **기간**: 2024.09 ~ 현재
 - **내용**: 컴퓨터소프트웨어공학과 작품 개발 활동
 
+## 🌌 GitHub Stats
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlatldn18&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlatldn18&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
 <br>
 
 ## 📜 Certificates
