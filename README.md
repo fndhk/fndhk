@@ -36,6 +36,15 @@
 | **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
 <br>
 
+## 🌌 GitHub Stats
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fndhk&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fndhk&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
 ## 💻 Projects & Experience
 
 ### 🎵 음악수호단 (졸업작품)
@@ -87,15 +96,6 @@
 ### 🏫 전공 동아리 CAN
 - **기간**: 2024.09 ~ 현재
 - **내용**: 컴퓨터소프트웨어공학과 작품 개발 활동
-
-## 🌌 GitHub Stats
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fndhk&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fndhk&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
 
 <br>
 
